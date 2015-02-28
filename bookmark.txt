@@ -1,0 +1,5 @@
+Voting
+13
+￼Now that our site is getting more popular, finding the best links is quickly going to get tricky. What we need is some kind of ranking system to order our posts by.
+We could build a complex ranking system with karma, time-based decay of points, and many other things (most of which are implemented in Telescope, Microscope’s big brother). But for our app, we’ll keep things simple and just rate posts by the number of votes they’ve received.
+Let’s start by giving users a way to vote on posts.
